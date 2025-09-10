@@ -1,4 +1,6 @@
-streamlit
-opencv-python
+streamlit>=1.22
+opencv-python-headless>=4.5.5.64
 numpy
+matplotlib
+PIL 
 
